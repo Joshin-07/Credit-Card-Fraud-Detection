@@ -1,6 +1,8 @@
 # 💳 Credit Card Fraud Detection
 
-# Kaggle Project Link:
+---
+
+## Kaggle Project Link:
 https://www.kaggle.com/code/joshinkthomas/credit-card-fraud-detection/notebook
 
 A machine learning project to detect fraudulent credit card transactions using various classification algorithms and class-imbalance handling techniques.
