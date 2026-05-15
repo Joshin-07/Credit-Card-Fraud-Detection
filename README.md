@@ -160,7 +160,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🙏 Acknowledgements
-
-- Dataset: [Machine Learning Group – ULB](https://mlg.ulb.ac.be/wordpress/portfolio_page/defeatfraud-assessment-and-benchmarking-of-fraud-detection-methods/)
-- Kaggle community for dataset hosting
